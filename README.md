@@ -318,6 +318,13 @@ The `internal eval` folder contains the results of performing internal evaluatio
 
 ![internal-eval](images/internal-eval.png)
 
+# Publications
+
+The Trace Clustering module was used in work described in the following publications:
+- Sequeira, P., Elenius, D., Hostetler, J., & Gervasio, M. (2022). [A Framework for Understanding and Visualizing Strategies of RL Agents](https://arxiv.org/abs/2208.08552). arXiv preprint arXiv:2208.08552.
+- Sequeira, P., Hostetler, J., & Gervasio, M. (2022). [Global and Local Analysis of Interestingness for Competency-Aware Deep Reinforcement Learning](https://arxiv.org/abs/2211.06376). Proceedings of AAAI FSS-22 Symposium "Lessons Learned for Autonomous Assessment of Machine Abilities (LLAAMA)".
+- Sequeira, P., & Gervasio, M. (2023). [IxDRL: A Novel Explainable Deep Reinforcement Learning Toolkit based on Analyses of Interestingness](https://arxiv.org/abs/2307.08933). Proceedings of the 1st World Conference on eXplainable Artificial Intelligence (xAI 2023).
+
 # License Notice
 
 The code is provided under the GPLv3 license (see [full license file](LICENSE.md)). To use the code under a different set of licensing terms, please contact [SRI International](https://www.sri.com/)'s licensing department at [licensee-ops@sri.com](mailto:licensee-ops@sri.com).
