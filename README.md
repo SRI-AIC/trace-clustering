@@ -33,7 +33,7 @@
 
 ```shell
 git checkout https://github.com/SRI-AIC/trace-clustering.git
-cd feature-extractor
+cd trace-clustering
 pip install -e .
 ```
 
