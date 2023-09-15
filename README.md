@@ -1,6 +1,6 @@
 # Trace Clustering
 
-> **Trace Clustering** is a Python library for clustering traces which are defined as sequences of features. Trace Clustering supports different feature types: numeric, vector, symbolic and multi-symbolic. It provides different distance metrics / algorithms and uses Agglomerative Hierarchical Clustering (HAC) to split traces into different clusters. 
+> **Trace Clustering** is a Python library for clustering traces which are defined as sequences of data (one or more features). Trace Clustering supports different feature types: numeric, vector, Boolean, symbolic. It provides different distance metrics / algorithms and uses Agglomerative Hierarchical Clustering (HAC) to split traces into different clusters. 
 
 
 
