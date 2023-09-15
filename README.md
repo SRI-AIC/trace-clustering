@@ -25,6 +25,7 @@
   - [Output](#cluster-output)
     - [External Evaluation](#external-evaluation)
     - [Internal Evaluation](#internal-evaluation)
+- [Publications](#publications)
 - [License Notice](#license-notice)
 - [Support](#support)
 - [Acknowledgements](#acknowledgements)
