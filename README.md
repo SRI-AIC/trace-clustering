@@ -8,7 +8,7 @@
 - [Dependencies](#dependencies)
 - [1. Split Data [Optional]](#1-split-data-optional)
   - [Usage](#split-usage)
-  - [Output](#splitoutput)
+  - [Output](#split-output)
 - [2. Embeddings](#2-embeddings)
   - [Numeric Features](#numeric-features)
   - [Symbolic Features](#symbolic-features)
