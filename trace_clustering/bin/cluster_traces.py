@@ -153,7 +153,7 @@ def main():
     logging.info('========================================')
     logging.info(f'Clustering {dist_matrix.shape[0]} traces via HAC...')
     clustering = AgglomerativeClustering(n_clusters=None if args.n_clusters == -1 else args.n_clusters,
-                                         affinity='precomputed',
+                                         metric='precomputed',
                                          linkage=args.linkage,
                                          compute_distances=True,
                                          distance_threshold=args.distance_threshold if args.n_clusters == -1 else None)
